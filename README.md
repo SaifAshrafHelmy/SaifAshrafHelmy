@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saif Ashraf Helmy</h1>
 <h3 align="center">A Junior Full-Stack developer from Egypt</h3>
 
-- 🔭 I’m currently working on [i-love-coffee-Nestjs-Project](https://github.com/SaifAshrafHelmy/i-love-coffee-Nestjs-Project)
+- 🔭 I’m currently working on [Online-Bookstore](https://github.com/SaifAshrafHelmy/Online-Bookstore)
 
-- 🌱 I’m currently learning **Nestjs and AWS**
+- 🌱 I’m currently learning **Nestjs and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaifAshrafHelmy/](https://github.com/SaifAshrafHelmy/)
 
